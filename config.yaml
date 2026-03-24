@@ -1,0 +1,30 @@
+dataset:
+  train_dir: "./data/train"
+  val_dir: "./data/val"
+  num_classes: 2
+  image_size: 224
+  num_workers: 0
+  aug_mode: "rot"
+train:
+  batch_size: 16
+  epochs: 20
+  lr: 0.001
+  weight_decay: 0.0001
+  device: "cuda"
+  save_dir: "./outputs/checkpoints"
+  log_dir: "./outputs/logs"
+  seed: 42
+
+model:
+  name: "resnet18"
+  pretrained: true
+  use_se: true
+  se_reduction: 16
+
+optimizer:
+  name: "adam"
+
+scheduler:
+  name: "step"
+  step_size: 10
+  gamma: 0.1

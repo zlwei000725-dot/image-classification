@@ -1,0 +1,10 @@
+Checkpoint: ./outputs/checkpoints/resnet18_se_rot_20260322_232318_best_model.pth
+Average loss: 0.080380
+Overall accuracy: 0.972813
+Per-class accuracy:
+  - cats: 0.971316
+  - dogs: 0.974308
+
+Confusion matrix:
+[[982  29]
+ [ 26 986]]

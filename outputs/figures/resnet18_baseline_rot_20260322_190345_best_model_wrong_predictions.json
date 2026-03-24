@@ -1,0 +1,326 @@
+[
+  {
+    "path": "./data/val\\cats\\cat.4058.jpg",
+    "true_label": "cats",
+    "pred_label": "dogs",
+    "confidence": 0.73720383644104
+  },
+  {
+    "path": "./data/val\\cats\\cat.4085.jpg",
+    "true_label": "cats",
+    "pred_label": "dogs",
+    "confidence": 0.9999775886535645
+  },
+  {
+    "path": "./data/val\\cats\\cat.4104.jpg",
+    "true_label": "cats",
+    "pred_label": "dogs",
+    "confidence": 0.9013389945030212
+  },
+  {
+    "path": "./data/val\\cats\\cat.4151.jpg",
+    "true_label": "cats",
+    "pred_label": "dogs",
+    "confidence": 0.6873387098312378
+  },
+  {
+    "path": "./data/val\\cats\\cat.4190.jpg",
+    "true_label": "cats",
+    "pred_label": "dogs",
+    "confidence": 0.98697829246521
+  },
+  {
+    "path": "./data/val\\cats\\cat.4199.jpg",
+    "true_label": "cats",
+    "pred_label": "dogs",
+    "confidence": 0.8531510829925537
+  },
+  {
+    "path": "./data/val\\cats\\cat.4214.jpg",
+    "true_label": "cats",
+    "pred_label": "dogs",
+    "confidence": 0.9272232055664062
+  },
+  {
+    "path": "./data/val\\cats\\cat.4218.jpg",
+    "true_label": "cats",
+    "pred_label": "dogs",
+    "confidence": 0.9983294606208801
+  },
+  {
+    "path": "./data/val\\cats\\cat.4220(1).jpg",
+    "true_label": "cats",
+    "pred_label": "dogs",
+    "confidence": 0.6958432793617249
+  },
+  {
+    "path": "./data/val\\cats\\cat.4220.jpg",
+    "true_label": "cats",
+    "pred_label": "dogs",
+    "confidence": 0.6958432793617249
+  },
+  {
+    "path": "./data/val\\cats\\cat.4234.jpg",
+    "true_label": "cats",
+    "pred_label": "dogs",
+    "confidence": 0.8700502514839172
+  },
+  {
+    "path": "./data/val\\cats\\cat.4314.jpg",
+    "true_label": "cats",
+    "pred_label": "dogs",
+    "confidence": 0.7039973139762878
+  },
+  {
+    "path": "./data/val\\cats\\cat.4346.jpg",
+    "true_label": "cats",
+    "pred_label": "dogs",
+    "confidence": 0.9934005737304688
+  },
+  {
+    "path": "./data/val\\cats\\cat.4477.jpg",
+    "true_label": "cats",
+    "pred_label": "dogs",
+    "confidence": 0.975224494934082
+  },
+  {
+    "path": "./data/val\\cats\\cat.4554.jpg",
+    "true_label": "cats",
+    "pred_label": "dogs",
+    "confidence": 0.6602500677108765
+  },
+  {
+    "path": "./data/val\\cats\\cat.4707.jpg",
+    "true_label": "cats",
+    "pred_label": "dogs",
+    "confidence": 0.8876538872718811
+  },
+  {
+    "path": "./data/val\\cats\\cat.4755.jpg",
+    "true_label": "cats",
+    "pred_label": "dogs",
+    "confidence": 0.878292441368103
+  },
+  {
+    "path": "./data/val\\cats\\cat.4771.jpg",
+    "true_label": "cats",
+    "pred_label": "dogs",
+    "confidence": 0.7594543695449829
+  },
+  {
+    "path": "./data/val\\cats\\cat.4965.jpg",
+    "true_label": "cats",
+    "pred_label": "dogs",
+    "confidence": 0.8537051677703857
+  },
+  {
+    "path": "./data/val\\cats\\cat.4978.jpg",
+    "true_label": "cats",
+    "pred_label": "dogs",
+    "confidence": 0.8583686947822571
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4001.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.5149847865104675
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4024.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.7627425789833069
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4047.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.8074910640716553
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4090.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.9012380838394165
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4127.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.9775027632713318
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4152.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.8352423906326294
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4167.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.5896726250648499
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4171(1).jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.9444220662117004
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4171.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.9444220662117004
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4183.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.9971805810928345
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4306.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.9391815662384033
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4310.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.5442330241203308
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4334.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.9999159574508667
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4366.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.7077332735061646
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4370.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.675144612789154
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4380.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.8413721323013306
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4388.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.7241137623786926
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4394.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.5276398062705994
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4494.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.98856121301651
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4507.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.616901159286499
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4552.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.749334990978241
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4565.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.6380473971366882
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4616.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.8386399745941162
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4690.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.5176559090614319
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4694.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.7647330164909363
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4706.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.9651292562484741
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4707.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.9955488443374634
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4756.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.7523506879806519
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4775.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.601333498954773
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4786.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.6423163414001465
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4894.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.8798335790634155
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4993.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.9984814524650574
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4995.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.5648060441017151
+  },
+  {
+    "path": "./data/val\\dogs\\dog.4998.jpg",
+    "true_label": "dogs",
+    "pred_label": "cats",
+    "confidence": 0.922570526599884
+  }
+]
