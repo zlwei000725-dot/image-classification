@@ -10,6 +10,7 @@ train:
   epochs: 20
   lr: 0.001
   weight_decay: 0.0001
+  patience: 5
   device: "cuda"
   save_dir: "./outputs/checkpoints"
   log_dir: "./outputs/logs"

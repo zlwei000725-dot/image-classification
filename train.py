@@ -167,6 +167,7 @@ def main():
     batch_size = train_cfg.get("batch_size", 16)
     lr = train_cfg.get("lr", 1e-3)
     weight_decay = train_cfg.get("weight_decay", 1e-4)
+    patience = train_cfg.get("patience", 0)
 
     image_size = data_cfg.get("image_size", 224)
     num_workers = data_cfg.get("num_workers", 4)
@@ -304,6 +305,8 @@ def main():
     # 7. Train loop
     # =========================
     best_val_acc = 0.0
+    best_val_loss = float("inf")
+    no_improve = 0
     latest_path = os.path.join(save_dir, f"{run_name}_latest_model.pth")
     best_path = os.path.join(save_dir, f"{run_name}_best_model.pth")
 
@@ -359,6 +362,15 @@ def main():
             checkpoint["best_val_acc"] = best_val_acc
             torch.save(checkpoint, best_path)
             print(f"New best model saved. Best Val Acc = {best_val_acc:.4f}")
+
+        if val_loss + 1e-8 < best_val_loss:
+            best_val_loss = val_loss
+            no_improve = 0
+        else:
+            no_improve += 1
+            if patience > 0 and no_improve >= patience:
+                print(f"Early stopping at epoch {epoch}. Best Val Loss = {best_val_loss:.4f}")
+                break
 
     tb_writer.close()
 
