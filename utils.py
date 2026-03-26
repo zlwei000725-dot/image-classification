@@ -90,6 +90,6 @@ def list_images(path: str) -> List[str]:
 
 
 def save_json(obj, path: str):
-    os.makedirs(os.path.dirname(path), exist_ok=True)
+    os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
         json.dump(obj, f, ensure_ascii=False, indent=2)

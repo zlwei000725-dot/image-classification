@@ -24,6 +24,7 @@ data/
 outputs/checkpoints/
 outputs/logs/
 outputs/figures/*.png
+outputs/figures/*.json
 # Optional generated results
 outputs/error_cases/
 
